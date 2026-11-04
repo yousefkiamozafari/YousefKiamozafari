@@ -1,34 +1,45 @@
-# Hi, I'm Yousef Kiamozafari 👋
+# Yousef Kiamozafari
 
-**Aspiring Python Developer · Software & AI Enthusiast**
+### Aspiring Python Developer | Software & AI Enthusiast
 
-I'm focused on building practical software, strengthening my programming fundamentals, and exploring how AI can improve the way we develop products.
+I'm a developer in progress with a strong interest in Python, artificial intelligence, and software engineering.
 
-### About Me
+I focus on learning through hands-on development, exploring modern technologies, and building practical software solutions.
 
-- 🐍 Learning Python through hands-on projects
-- 🤖 Exploring AI-assisted development and applied AI
-- 📱 Working on Android development and Kotlin
-- 🖥️ Building Windows desktop software
-- 🌐 Developing my knowledge of networking and Linux
+### 🚀 Featured Project
 
-### Current Projects
+#### FYRNOX
+A Windows networking and proxy client designed with a focus on reliability, performance, and user experience.
 
-- **DotMusic** — An Android music application in development.
-- **FYRNOX** — A Windows networking and proxy client in development.
+Currently under active development.
 
-### Skills & Technologies
+### 🧠 Areas of Interest
 
-- **Programming:** Python, Kotlin
-- **Tools:** Git, GitHub, Visual Studio Code
-- **Foundations:** Linux, Computer Networking
+- Python Development
+- Artificial Intelligence & AI-assisted Development
+- Software Engineering
+- Windows Desktop Applications
+- Computer Networking
+- Linux
 
-*Continuously learning and improving through practical projects.*
+### 🛠️ Tools & Technologies
 
-### Connect With Me
+- **Programming:** Python (learning)
+- **Development Tools:** Git, GitHub, Visual Studio Code
+- **Technical Foundations:** Networking, Linux
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yousef-kiamozafari-89170a3b0/)
+### 📚 Current Focus
+
+- Strengthening Python programming skills
+- Developing practical software projects
+- Exploring applied AI and automation
+- Improving software architecture and development practices
+
+### 🤝 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/yousef-kiamozafari-89170a3b0/)
+- [GitHub](https://github.com/yousefkiamozafari)
 
 ---
 
-<sub>Always learning. Always building.</sub>
+*Building skills through code. Turning ideas into software.*
